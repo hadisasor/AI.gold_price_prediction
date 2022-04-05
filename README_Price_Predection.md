@@ -1,5 +1,14 @@
 # hadi_eyad_gold_price_prediction
 
+Defining the problem: 
+the problem is not knowing the future price of gold, so our solution is giving a machine that predict the price of gold
+
+Defining and exploring the data:
+The data is the price of gold from the year 2008 until 2018
+check the website to know more about the data of gold price and explore by yourself 
+https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data
+
+(Solution) Steps of the codes:
 -First step we imported the various libraries, so we can work on the project depending on it
 in using it's functions 
 
@@ -34,7 +43,11 @@ in using it's functions
 -Tenth we squered the error values to see where we didn't have the predicted data accuratly like
  the actual real data
  
+(Concluion) Last step is considers as the conclusion of this solution:
  -eleventh we did a graph where it compare the Actual values and the predicted ones in a plot
-and we found out the the predection was actually close the real values, so the predection is not
-completely but approximately accurate
- 
+and we found out the the predection was actually close the real values, 
+
+(Analysis) This what we saw from the conclusion
+so the predection is not
+completely accurate but approximately accurate and close to the actual values
+
